@@ -28,4 +28,8 @@ Chào mừng bạn đến với **Shop Game**! Đây là một hệ thống webs
 - Chạy trên web: Truy cập vào https://shopgametheboys.infinityfreeapp.com
 
 ## Thông tin liên hệ
-Gmail: nguyenhoangphongsupham@gmail.com
+**Nguyễn Hoàng Phong**
+* **Email:** nguyenhoangphongsupham@gmail.com
+* **LinkedIn:** [Nguyễn Hoàng Phong](https://www.linkedin.com/in/fong62/)
+* **GitHub:** [Fong62](https://github.com/Fong62)
+
